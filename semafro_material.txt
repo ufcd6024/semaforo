@@ -1,0 +1,14 @@
+semáforo 
+trabalho realizado na ufcd6024, semáforo que fica intermitente amarelo quando não ha luz.
+
+
+material usado:
+
+Arduino UNO
+2 led red
+2 led green
+2 led yellow
+6 resistor 220ohms
+1 resistir 10kohms
+1 ldr
+cable
